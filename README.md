@@ -35,5 +35,8 @@ This project explores the relationship between physical attributes, college back
 - Pandas, NumPy: Data manipulation
 - Matplotlib, Seaborn: Visualisations
 -  Power BI: Dashboard
+-  you can check out how it well more visible in a dashboard form below is the link
+
+-  https://drive.google.com/file/d/1zHXowciZjnVuI2ny-TeL0_pSzbDfusZU/view?usp=drive_link
 
 
